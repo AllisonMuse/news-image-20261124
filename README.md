@@ -1,7 +1,10 @@
 # 24 November 2026 — World News in One Image
 
-An entry for make.fun's "Sum up 24 November's world news in one image"
-bounty ($100, 50 places paid). The program (`main.ts`, Node 22, standard
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/AllisonMuse/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/AllisonMuse/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
+An entry for [make.fun's "Sum up 24 November's world news in one image" bounty](https://make.fun/bounty/news-image-20261124) ($100, 50 places paid). The program (`main.ts`, Node 22, standard
 library only) copies `entry.png` to the output directory; the image is a
 1024×1024 PNG drawn at build time by `draw_news.py` (Python + Pillow),
 so both grader runs write identical bytes. No network is used at run time.
